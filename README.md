@@ -19,15 +19,15 @@ ________________________________________________________________________________
 
 - 🌱 I’m currently learning **Django Framework and React Framework**
 
-- 📫 How to reach me **chaudhariramakant754@gmail.com**
+- 📫 How to reach me **chaudhari3261@gmail.com**
   
 
 
 <h2 align="center">🌐 Connect with Me</h2> 
-<p align="center"> <a href="mailto:chaudhariramakant754@gmail.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" title="Email" width="60" height="60" style="margin: 10px;" /> </a>
-<a href="https://linkedin.com/in/ramakantchaudhari482124" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn" width="60" height="60" style="margin: 10px;" /> </a>
-<a href="https://instagram.com/er_ramakant_3715" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" title="Instagram" width="60" height="60" style="margin: 10px;" /> </a> 
-<a href="https://fb.com/ramakant.chaudhari.7547" target="_blank"> <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" title="Facebook" width="60" height="60" style="margin: 10px;" /> </a> <a href="https://github.com/Ramakant2124" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" title="GitHub" width="60" height="60" style="margin: 10px;" /> </a> </p>
+<p align="center"> <a href="mailto:chaudhari3261@gmail.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" title="Email" width="60" height="60" style="margin: 10px;" /> </a>
+<a href="https://www.linkedin.com/in/ritesh-chaudhari-830b2a356/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn" width="60" height="60" style="margin: 10px;" /> </a>
+<a href="link" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" title="Instagram" width="60" height="60" style="margin: 10px;" /> </a> 
+<a href="link" target="_blank"> <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" title="Facebook" width="60" height="60" style="margin: 10px;" /> </a> <a href="https://github.com/chaudhari3261-cmyk" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" title="GitHub" width="60" height="60" style="margin: 10px;" /> </a> </p>
 
 <br></br>
   
