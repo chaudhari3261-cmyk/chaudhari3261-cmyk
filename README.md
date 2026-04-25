@@ -33,25 +33,28 @@ ________________________________________________________________________________
   
 
 <h2 align="center">🚀 Languages</h2>
-<marquee direction="right">
+<h1 align="center">🚀 Tech Stack</h1>
 
+---
+
+## 🚀 Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
 </p>
-</marquee>
 
-<h2 align="center">🧩 Frameworks & Libraries</h2>
-<marquee direction="left">
+---
+
+## 🧩 Frameworks & Libraries
 <p align="center">
   <img src="https://skillicons.dev/icons?i=django,flask,fastapi,react,tailwind,bootstrap,pytorch" />
 </p>
-</marquee>
-<h2 align="center">🛠️ Tools & Platforms</h2>
-<marquee direction="right">
+
+---
+
+## 🛠️ Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,aws" />
 </p>
-</marquee>
 
 <br>
 </br>
